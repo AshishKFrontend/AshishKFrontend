@@ -1,8 +1,9 @@
-![MasterHead](https://www.apollowebdesigns.in/images/2018/03/03/banner_02_apps.gif)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0814c448-51f9-44aa-8f15-8833f5dfc11e" alt="MasterHead" style="max-width: 100%; height: auto;"/>
+</p>
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"  alt="coding">
+<img align="right" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif"  alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkfrontend&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkfrontend" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
